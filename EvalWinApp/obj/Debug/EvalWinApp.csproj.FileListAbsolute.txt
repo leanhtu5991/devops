@@ -1,0 +1,10 @@
+C:\devops\Eval\EvalSolSecond\EvalWinApp\bin\Debug\EvalWinApp.exe.config
+C:\devops\Eval\EvalSolSecond\EvalWinApp\bin\Debug\EvalWinApp.exe
+C:\devops\Eval\EvalSolSecond\EvalWinApp\bin\Debug\EvalWinApp.pdb
+C:\devops\Eval\EvalSolSecond\EvalWinApp\obj\Debug\EvalWinApp.csprojResolveAssemblyReference.cache
+C:\devops\Eval\EvalSolSecond\EvalWinApp\obj\Debug\EvalWinApp.Form1.resources
+C:\devops\Eval\EvalSolSecond\EvalWinApp\obj\Debug\EvalWinApp.Properties.Resources.resources
+C:\devops\Eval\EvalSolSecond\EvalWinApp\obj\Debug\EvalWinApp.csproj.GenerateResource.Cache
+C:\devops\Eval\EvalSolSecond\EvalWinApp\obj\Debug\EvalWinApp.exe
+C:\devops\Eval\EvalSolSecond\EvalWinApp\obj\Debug\EvalWinApp.pdb
+C:\devops\Eval\EvalSolSecond\EvalWinApp\obj\Debug\EvalWinApp.FrmAddFormation.resources
