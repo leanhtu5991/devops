@@ -1,4 +1,3 @@
-FROM php:7.2.2-apache
-RUN apt-get update && apt-get install XXX
-EXPOSE 3000
-COPY your-favorite-tool-here
+FROM php:7.2-cli
+WORKDIR /usr/src/myapp
+CMD [ "php", "./samplephpwebsite/content/home.php" ]
